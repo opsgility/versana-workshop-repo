@@ -120,13 +120,16 @@ Read in order — these are the idiot-proof, self-paced walkthroughs. If the liv
 
 1. `00-lab-setup.md` — get the resource files in place; confirm Copilot is enabled (10 min)
 2. `01-Ex1-outlook-draft-iterate-send.md` — Outlook: draft, iterate, send (25 min)
-3. `02-Ex3-excel-vendor-analysis.md` — Excel: vendor analysis (20 min)
-4. `03-Ex4-teams-meeting-prep-summaries.md` — Teams: meeting prep + summaries (25 min)
-5. `04-Ex5-word-memos-release-notes.md` — Word: memos + release notes + bonus PowerPoint (20 min)
-6. `05-Ex6-hands-on-practice.md` — multi-app scenarios across product / ops / CS / exec assistants (30 min)
-7. `03-take-home-prompt-sheet.md` — categorized prompt library to keep open day-to-day
-8. `agenda.md` — schedule at a glance
-9. `COURSE-OVERVIEW.md` — this document
+3. `02-Ex2-outlook-check-ins-and-re-engagement.md` — Outlook: check-ins, warm intros, re-engagement (20 min)
+4. `03-Ex3-excel-vendor-analysis.md` — Excel: vendor analysis (20 min)
+5. `04-Ex4-teams-meeting-prep-summaries.md` — Teams: meeting prep + summaries (25 min)
+6. `05-Ex5-word-memos-release-notes.md` — Word: memos + release notes + bonus PowerPoint (20 min)
+7. `06-Ex6-hands-on-practice.md` — multi-app scenarios across product / ops / CS / exec assistants (30 min)
+8. `03-take-home-prompt-sheet.md` — categorized prompt library to keep open day-to-day
+9. `agenda.md` — schedule at a glance
+10. `COURSE-OVERVIEW.md` — this document
+
+> Total self-paced content: ~2 hours 20 minutes. The live workshop deck runs Exercises 1, 3, 4, 5, 6 in 2 hours (Exercise 2 is course-only, for attendees who want to keep going after the session).
 
 ### Facilitator-only content (`Versana-Facilitator/`)
 

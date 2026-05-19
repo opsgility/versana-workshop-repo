@@ -62,7 +62,8 @@ You just left the weekly CS↔Product sync and you owe the team a follow-up that
 
 9. After the draft is inserted into the email body, highlight any single sentence you want to refine, click the **Open Copilot** icon, and try **Change Tone** → **Direct** to see how a single paragraph rewrite differs from a full-draft rewrite.
 
-
+> [!NOTE]
+> **SharePoint habit:** Once you send this, save the final email text to a SharePoint location (a Teams channel post or a SharePoint page) instead of leaving it locked in your Outlook Sent folder. Your team's Copilot can search SharePoint content but not your personal Sent items.
 
 ---
 
@@ -151,4 +152,4 @@ Use the prompting framework (Goal, Context, Sources, Expectations) and iterate a
 - **Change Tone** acts on a selection. Don't rewrite the whole email if you only want to fix one paragraph.
 - The **SharePoint habit:** put your reusable content where the team's Copilot can see it. Sent-items are invisible to everyone else.
 
-Continue to **Exercise 3: Excel** when you're ready.
+Continue to **Exercise 2: Outlook — Check-ins and Re-engagement** when you're ready.
