@@ -114,16 +114,28 @@ All prompts use bracketed placeholders `[like this]` for easy customization.
 
 ## File Inventory
 
-### Workshop content (`Versana-Workshop/`)
+### Attendee-facing content (`Versana-Course/`)
 
-1. `agenda.md` — high-level workshop overview
-2. `00-facilitator-guide.md` — runbook for the facilitator
-3. `00-lab-setup.md` — *NEW* — attendee-facing lab setup walkthrough
-4. `01-hour1-overview-outline.md` — Hour 1 outline + speaker notes
-5. `02-hour2-use-case-library.md` — 12 walkthroughs for live Q&A
-6. `03-take-home-prompt-sheet.md` — *EXPANDED* — categorized prompt library
-7. `04-hybrid-delivery-notes.md` — virtual + onsite hybrid model
-8. `COURSE-OVERVIEW.md` — *NEW* — this document
+Read in order — these are the idiot-proof, self-paced walkthroughs. If the live workshop runs short on time, attendees can complete every exercise on their own using these files.
+
+1. `00-lab-setup.md` — get the resource files in place; confirm Copilot is enabled (10 min)
+2. `01-Ex1-outlook-draft-iterate-send.md` — Outlook: draft, iterate, send (25 min)
+3. `02-Ex3-excel-vendor-analysis.md` — Excel: vendor analysis (20 min)
+4. `03-Ex4-teams-meeting-prep-summaries.md` — Teams: meeting prep + summaries (25 min)
+5. `04-Ex5-word-memos-release-notes.md` — Word: memos + release notes + bonus PowerPoint (20 min)
+6. `05-Ex6-hands-on-practice.md` — multi-app scenarios across product / ops / CS / exec assistants (30 min)
+7. `03-take-home-prompt-sheet.md` — categorized prompt library to keep open day-to-day
+8. `agenda.md` — schedule at a glance
+9. `COURSE-OVERVIEW.md` — this document
+
+### Facilitator-only content (`Versana-Facilitator/`)
+
+Not shared with attendees. These contain speaker notes and live demo cues that dilute the demos if attendees have them in advance.
+
+1. `00-facilitator-guide.md` — runbook for the facilitator
+2. `01-hour1-overview-outline.md` — Hour 1 outline + speaker notes
+3. `02-hour2-use-case-library.md` — 12 walkthroughs for live Q&A
+4. `04-hybrid-delivery-notes.md` — virtual + onsite hybrid model
 
 ### Resource files (`Versana-ResourceFiles/`)
 
