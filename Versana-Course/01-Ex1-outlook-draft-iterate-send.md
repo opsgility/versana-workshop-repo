@@ -43,7 +43,9 @@ You just left the weekly CS↔Product sync and you owe the team a follow-up that
 
 4. In the Copilot prompt field, enter:
 
-    **I just left a CS↔Product sync about our partner-integration roadmap. Draft a follow-up email to the team that references the attached transcript and captures: (1) the decision on integration sequence — Type A first, Type B in the next release, (2) action items with owners and due dates, (3) open questions, (4) a clear next-step ask. Under 150 words. Professional tone, no exclamation points.**
+    ```
+    I just left a CS↔Product sync about our partner-integration roadmap. Draft a follow-up email to the team that references the attached transcript and captures: (1) the decision on integration sequence — Type A first, Type B in the next release, (2) action items with owners and due dates, (3) open questions, (4) a clear next-step ask. Under 150 words. Professional tone, no exclamation points.
+    ```
 
 5. Review the draft Copilot generates. Check:
     - Does it correctly identify Type A first, Type B next?
@@ -52,11 +54,15 @@ You just left the weekly CS↔Product sync and you owe the team a follow-up that
 
 6. Iterate the draft. In the prompt field below the draft, enter:
 
-    **Tighten the call to action — right now it's three sentences; I want one. Move the action items to the top so it's the first thing the reader sees.**
+    ```
+    Tighten the call to action — right now it's three sentences; I want one. Move the action items to the top so it's the first thing the reader sees.
+    ```
 
 7. Review draft 2. Try one more refinement to adjust tone:
 
-    **Change the tone to be more confident — drop any hedging like "I think" or "maybe." Be direct.**
+    ```
+    Change the tone to be more confident — drop any hedging like "I think" or "maybe." Be direct.
+    ```
 
 8. Navigate between drafts 1, 2, and 3 using the forward/backward arrows. Select the version you prefer and click **Keep it**.
 
@@ -77,7 +83,9 @@ A partner-system contact's team caused a Type B discrepancy that took until Tues
 
 3. Enter this prompt:
 
-    **Draft an email to a partner-system contact about a Type B discrepancy that took 3 business days to resolve. Reference the daily reconciliation runbook (attached) — specifically the escalation matrix for partner-side issues. Acknowledge that the root cause was partner-side without finger-pointing. Ask whether their team can scope a cross-side escalation flow so future incidents move faster. Under 120 words. Respectful but direct. End with a specific next step.**
+    ```
+    Draft an email to a partner-system contact about a Type B discrepancy that took 3 business days to resolve. Reference the daily reconciliation runbook (attached) — specifically the escalation matrix for partner-side issues. Acknowledge that the root cause was partner-side without finger-pointing. Ask whether their team can scope a cross-side escalation flow so future incidents move faster. Under 120 words. Respectful but direct. End with a specific next step.
+    ```
 
 4. Review the draft. Look for:
     - Does it avoid blaming language while still naming the issue?
@@ -86,11 +94,15 @@ A partner-system contact's team caused a Type B discrepancy that took until Tues
 
 5. Iterate:
 
-    **Make the next-step ask more specific — propose a 30-minute call this week to scope the cross-side escalation idea rather than a vague "let's discuss."**
+    ```
+    Make the next-step ask more specific — propose a 30-minute call this week to scope the cross-side escalation idea rather than a vague "let's discuss."
+    ```
 
 6. Optionally try a tone shift:
 
-    **Make the opening less apologetic. Acknowledge the impact without minimizing it, but don't open with "I'm sorry."**
+    ```
+    Make the opening less apologetic. Acknowledge the impact without minimizing it, but don't open with "I'm sorry."
+    ```
 
 7. Select **Keep it** when satisfied.
 
@@ -111,17 +123,23 @@ A Teams thread has gone past 20 messages over the last two days. You're behind. 
 
 4. Enter:
 
-    **Summarize this thread in 4 bullets. What's the main question or decision on the table right now? Who is asking it? What's the latest message?**
+    ```
+    Summarize this thread in 4 bullets. What's the main question or decision on the table right now? Who is asking it? What's the latest message?
+    ```
 
 5. Read the 4-bullet summary. Now switch to drafting a reply.
 
 6. In the reply box of the thread, click the **Copilot** icon to draft a response. Enter:
 
-    **Draft a reply to this thread. Acknowledge the latest message, give a one-sentence response to the question being asked, and propose a 15-minute call to close the loop on the bigger discussion. Tone: professional, not stiff. Under 100 words.**
+    ```
+    Draft a reply to this thread. Acknowledge the latest message, give a one-sentence response to the question being asked, and propose a 15-minute call to close the loop on the bigger discussion. Tone: professional, not stiff. Under 100 words.
+    ```
 
 7. Iterate if needed:
 
-    **Tighten the reply — drop the recap, just answer the questions. People in the thread already know what's been said.**
+    ```
+    Tighten the reply — drop the recap, just answer the questions. People in the thread already know what's been said.
+    ```
 
 8. Send the reply when satisfied.
 
@@ -152,4 +170,4 @@ Use the prompting framework (Goal, Context, Sources, Expectations) and iterate a
 - **Change Tone** acts on a selection. Don't rewrite the whole email if you only want to fix one paragraph.
 - The **SharePoint habit:** put your reusable content where the team's Copilot can see it. Sent-items are invisible to everyone else.
 
-Continue to **Exercise 2: Outlook — Check-ins and Re-engagement** when you're ready.
+Continue to **Exercise 2: Outlook — Check-ins and R

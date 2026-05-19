@@ -54,7 +54,9 @@ You haven't talked to Belmont Trust Services in three months. The relationship i
 
 4. Enter:
 
-    **Draft a check-in email to Marcus Chen, Senior Director of Operations at Belmont Trust Services. I haven't talked to them in 3 months. Reference the attached activity history — Belmont is a stable Type A customer, and they've expressed interest in Type B once it ships. Lead with a specific insight, not a generic greeting. The insight should be something I'd know from the activity history — for example, that their team has been the most consistent user of the discrepancy dashboard, or that their volume has been stable through Q1. Offer one concrete next step — a 20-minute call to walk them through the Type B GA timeline. Under 120 words. Tone: warm, peer-level, not transactional.**
+    ```
+    Draft a check-in email to Marcus Chen, Senior Director of Operations at Belmont Trust Services. I haven't talked to them in 3 months. Reference the attached activity history — Belmont is a stable Type A customer, and they've expressed interest in Type B once it ships. Lead with a specific insight, not a generic greeting. The insight should be something I'd know from the activity history — for example, that their team has been the most consistent user of the discrepancy dashboard, or that their volume has been stable through Q1. Offer one concrete next step — a 20-minute call to walk them through the Type B GA timeline. Under 120 words. Tone: warm, peer-level, not transactional.
+    ```
 
 5. Review the draft. Check:
     - Does the opening reference something specific from the activity history (not "I hope you're doing well")?
@@ -62,11 +64,15 @@ You haven't talked to Belmont Trust Services in three months. The relationship i
 
 6. Iterate:
 
-    **The opening is still a little generic. Rewrite it to lead with a single specific observation — for example, that Belmont's volume has held steady through Q1 while many comparable customers have fluctuated. Make it sound like I actually pay attention.**
+    ```
+    The opening is still a little generic. Rewrite it to lead with a single specific observation — for example, that Belmont's volume has held steady through Q1 while many comparable customers have fluctuated. Make it sound like I actually pay attention.
+    ```
 
 7. Try a tone refinement:
 
-    **Make the next-step ask more confident. Instead of "if it works for you," propose two specific time windows and let them pick.**
+    ```
+    Make the next-step ask more confident. Instead of "if it works for you," propose two specific time windows and let them pick.
+    ```
 
 8. **Keep it** when satisfied.
 
@@ -85,7 +91,9 @@ A new colleague is taking over the day-to-day relationship with Cresswell Asset 
 
 3. Enter:
 
-    **Draft a warm intro email to Marie Chen at Cresswell Asset Management. The intro is for my colleague Jordan Reyes, who is taking over as the primary day-to-day Versana CS contact for Cresswell. Reference the attached customer activity history — Cresswell is our largest customer, has been a Type B design partner since Q3 2025, and Marie's team has been the heaviest user of the discrepancy dashboard. The email should: (1) acknowledge the strength of the existing relationship with Marie, (2) introduce Jordan with one or two specific details that establish credibility (e.g., Jordan's background working with other top-tier Type B pilot customers), (3) make clear that I'm staying involved at the strategic level — this is not me leaving, this is Jordan joining. Tone: collegial, not formal. Under 130 words.**
+    ```
+    Draft a warm intro email to Marie Chen at Cresswell Asset Management. The intro is for my colleague Jordan Reyes, who is taking over as the primary day-to-day Versana CS contact for Cresswell. Reference the attached customer activity history — Cresswell is our largest customer, has been a Type B design partner since Q3 2025, and Marie's team has been the heaviest user of the discrepancy dashboard. The email should: (1) acknowledge the strength of the existing relationship with Marie, (2) introduce Jordan with one or two specific details that establish credibility (e.g., Jordan's background working with other top-tier Type B pilot customers), (3) make clear that I'm staying involved at the strategic level — this is not me leaving, this is Jordan joining. Tone: collegial, not formal. Under 130 words.
+    ```
 
 4. Review the draft. Check:
     - Does it acknowledge Marie specifically rather than addressing her as a generic contact?
@@ -94,11 +102,15 @@ A new colleague is taking over the day-to-day relationship with Cresswell Asset 
 
 5. Iterate:
 
-    **Add one sentence that proposes a specific first interaction — maybe a brief 30-minute introductory call where Marie can walk Jordan through Cresswell's priorities for the next quarter. That gives Marie a clear next step.**
+    ```
+    Add one sentence that proposes a specific first interaction — maybe a brief 30-minute introductory call where Marie can walk Jordan through Cresswell's priorities for the next quarter. That gives Marie a clear next step.
+    ```
 
 6. Try a refinement to remove filler:
 
-    **Drop any adjectives I haven't earned. Don't call Jordan "experienced" or "trusted" — say what Jordan has actually done.**
+    ```
+    Drop any adjectives I haven't earned. Don't call Jordan "experienced" or "trusted" — say what Jordan has actually done.
+    ```
 
 7. **Keep it** when satisfied.
 
@@ -119,7 +131,9 @@ This is the email most people get wrong. The instinct is either to apologize too
 
 3. Enter:
 
-    **Draft a re-engagement email to Carolyn Foster, COO of Ellesmere Funds. The attached activity history shows their usage has dropped 60% in 6 months, their Director of Operations left in Q4 2025, and Carolyn has not responded to my last two check-ins. The Q4 escalation experience (a high-severity discrepancy that took 3 business days to resolve due to partner-side issues) was likely a factor. The cross-side escalation flow that we're spiking in Sprint 48 directly addresses what went wrong in Q4. Draft the email to: (1) acknowledge the silence without being weird about it, (2) lead with the specific product change that addresses what they actually experienced — not a generic feature update, (3) propose a low-commitment next step — a 20-minute call where I walk them through what's shipping and how it would have changed the Q4 outcome. Under 130 words. Tone: confident, accountable, not apologetic.**
+    ```
+    Draft a re-engagement email to Carolyn Foster, COO of Ellesmere Funds. The attached activity history shows their usage has dropped 60% in 6 months, their Director of Operations left in Q4 2025, and Carolyn has not responded to my last two check-ins. The Q4 escalation experience (a high-severity discrepancy that took 3 business days to resolve due to partner-side issues) was likely a factor. The cross-side escalation flow that we're spiking in Sprint 48 directly addresses what went wrong in Q4. Draft the email to: (1) acknowledge the silence without being weird about it, (2) lead with the specific product change that addresses what they actually experienced — not a generic feature update, (3) propose a low-commitment next step — a 20-minute call where I walk them through what's shipping and how it would have changed the Q4 outcome. Under 130 words. Tone: confident, accountable, not apologetic.
+    ```
 
 4. Review the draft. Check for the three most common failure modes:
     - **Too apologetic.** Phrases like "sorry for the radio silence" or "apologies for missing you." Cut them.
@@ -128,11 +142,15 @@ This is the email most people get wrong. The instinct is either to apologize too
 
 5. Iterate to fix the most common weakness:
 
-    **The opening still sounds apologetic. Rewrite it to acknowledge the gap as a fact without making it about me. The Q4 escalation was real and the customer experience was poor — own that directly without sounding sorry for myself.**
+    ```
+    The opening still sounds apologetic. Rewrite it to acknowledge the gap as a fact without making it about me. The Q4 escalation was real and the customer experience was poor — own that directly without sounding sorry for myself.
+    ```
 
 6. Try one more iteration to make the next step specific:
 
-    **Instead of "a 20-minute call," propose two specific time windows next week. Add one specific topic you'd cover in the call beyond just the escalation flow — for example, the Type B GA timeline now that the pilot is expanding.**
+    ```
+    Instead of "a 20-minute call," propose two specific time windows next week. Add one specific topic you'd cover in the call beyond just the escalation flow — for example, the Type B GA timeline now that the pilot is expanding.
+    ```
 
 7. **Keep it** when satisfied.
 
